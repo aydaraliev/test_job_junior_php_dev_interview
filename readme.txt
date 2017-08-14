@@ -3,7 +3,7 @@ Test assignement for junior php developer position.
 Implementation of a database interface has the following functionality:
 - basic authentification
 - display of users with pagination and sorting
-- editing, addition and delition of a user record
+- editing, addition and deletion of a user record
 
 
 users_manager.php is a main starting page.
